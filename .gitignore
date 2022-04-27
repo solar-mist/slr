@@ -1,0 +1,7 @@
+compile_commands.json
+slr
+
+*.o
+*.s
+
+.cache/
